@@ -1,5 +1,4 @@
 # Preparando o Servidor
-===========================
 
 ## Requisitos necessários
 
@@ -28,15 +27,15 @@ Os exemplos de instalação são os que foram feitos em uma máquina Ubuntu
 ```
 sudo apt-get install php-curl
 ```
-- [PHP Multibyte String Support] (http://php.net/manual/en/mbstring.setup.php)
+- [PHP Multibyte String Support](http://php.net/manual/en/mbstring.setup.php)
 ```
 sudo apt-get install php7.0-mbstring
 ```
-- [PHP PDO MySQL Extension] (http://www.php.net/manual/en/ref.pdo-mysql.php)
-- [PHP Zip Extension] (http://php.net/manual/en/book.zip.php)
-- [PHP EXIF Extension] (http://php.net/manual/en/book.exif.php)
-- [PHP INTL Extension] (http://php.net/manual/en/intro.intl.php)
-- [PHP FileInfo Extension] (http://php.net/manual/en/fileinfo.installation.php)
+- [PHP PDO MySQL Extension](http://www.php.net/manual/en/ref.pdo-mysql.php)
+- [PHP Zip Extension](http://php.net/manual/en/book.zip.php)
+- [PHP EXIF Extension](http://php.net/manual/en/book.exif.php)
+- [PHP INTL Extension](http://php.net/manual/en/intro.intl.php)
+- [PHP FileInfo Extension](http://php.net/manual/en/fileinfo.installation.php)
 
 ## Algumas Extensões Opcionais
 
@@ -61,7 +60,6 @@ Garanta que o database que você irá apontar para que o humhub use tenha privil
 
 
 # Instalação do Humhub 
-===========================
 
 Clone o projeto do humhub dentro da pasta `/var/www`
 ```

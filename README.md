@@ -18,4 +18,4 @@ More information:
 - [Licence](http://www.humhub.org/licences)
 
 Documentação do Colabore:
-- [Instalações]('./INSTALACAO.md')
+- [Instalações](instalacao.md)
