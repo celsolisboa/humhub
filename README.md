@@ -17,3 +17,5 @@ More information:
 - [Community](http://community.humhub.com/)
 - [Licence](http://www.humhub.org/licences)
 
+Documentação do Colabore:
+- [Instalações]('./INSTALACAO.md')
